@@ -14,7 +14,7 @@ console.log(APP_NAME);           // Javascript Learner
 console.log(PI);                 // 3.14
 
 // Use the imported functions
-console.log(greet("Maham"));     // Hello, Maham!
+console.log(greet("Alizeh"));     // Hello, My name is Alizeh
 console.log(circleArea(5));      // 78.5
 console.log(circumference(5));   // 31.4
 
